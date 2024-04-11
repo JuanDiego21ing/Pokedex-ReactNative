@@ -74,7 +74,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'flex-start',
     padding: 10,
-    paddingTop: 40, // Ajustar el padding para evitar el notch
+    paddingTop: 40, 
   },
   flatListContainer: {
     alignItems: 'center',
@@ -111,16 +111,16 @@ const styles = StyleSheet.create({
   logo: {
     width: 150,
     height: 150,
-    marginBottom: 20, // Ajustar el margen inferior
+    marginBottom: 20, 
   },
   searchBar: {
     width: '100%',
     height: 40,
     backgroundColor: '#fff',
     paddingLeft: 10,
-    marginBottom: 20, // Ajustar el margen inferior
+    marginBottom: 20, 
     borderWidth: 1,
-    borderColor: '#ff0000', // Cambiar el color del borde
+    borderColor: '#ff0000', 
     borderRadius: 5,
   },
 });
